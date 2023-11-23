@@ -1,5 +1,5 @@
 // creazione archivio
-let archivio = ["daniel.digiacomo@gmail.com", "laura75@gmail.com", "marco35@gmail.com", "silvia04@gmail.com"]
+let archivio = ["daniel.digiacomo@gmail.com", "sandrodigiacomo47@gmail.com", "marco35@gmail.com", "silvia04@gmail.com"]
 
 
 
