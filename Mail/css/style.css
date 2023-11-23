@@ -4,3 +4,14 @@
     box-sizing: border-box;
 }
 
+#positivo{
+    padding: 5px 8px;
+    color: green;
+    border-radius: 5px;
+}
+
+#negativo{
+    padding: 5px 8px;
+    color: red;
+    border-radius: 5px;
+}
