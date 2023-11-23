@@ -20,6 +20,13 @@ Consigli del giorno:
 5. proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 Buon lavoro e buon divertimento!
 
+EMAIL
 1. Chiedere l'email
 2. Controllare nella lista se c'è l'email  
 3. Stampare il mesaggio
+
+Gioco dei dadi
+1. Creare numeri casuali tra 1 e 6 giocatore
+2. Creare numeri casuali tra 1 e 6 computer
+3. Controllare il numero più alto
+4. Mesaggio vincitore
